@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#14112a"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#f778ba"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text { font-family: 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+      .wire { fill: none; stroke: #30363d; stroke-width: 2; }
+      .flow { fill: none; stroke-width: 2.5; stroke-dasharray: 6 14; animation: flow 1.4s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -40; } }
+      .box { stroke-width: 1.5; }
+      .glowcore { animation: breathe 2.6s ease-in-out infinite; }
+      @keyframes breathe { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="18" fill="url(#bg)"/>
+
+  <!-- column labels -->
+  <text x="110" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">DATA</text>
+  <text x="400" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">BASE LEARNERS</text>
+  <text x="760" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">META-LEARNER</text>
+  <text x="1060" y="44" fill="#8b949e" font-size="13" text-anchor="middle" letter-spacing="2">OUTPUT</text>
+
+  <!-- data -->
+  <rect class="box" x="30" y="200" width="160" height="120" rx="14" fill="#161b22" stroke="#58a6ff"/>
+  <text x="110" y="245" fill="#e6edf3" font-size="16" font-weight="700" text-anchor="middle">Time series</text>
+  <text x="110" y="270" fill="#8b949e" font-size="12" text-anchor="middle">lags · calendar</text>
+  <text x="110" y="288" fill="#8b949e" font-size="12" text-anchor="middle">holidays · exog</text>
+
+  <!-- base learners -->
+  <g font-size="14" font-weight="600" text-anchor="middle">
+    <rect class="box" x="320" y="70"  width="160" height="44" rx="10" fill="#161b22" stroke="#ff7b72"/><text x="400" y="97"  fill="#ff7b72">ARIMA / SARIMA</text>
+    <rect class="box" x="320" y="130" width="160" height="44" rx="10" fill="#161b22" stroke="#f778ba"/><text x="400" y="157" fill="#f778ba">Prophet</text>
+    <rect class="box" x="320" y="190" width="160" height="44" rx="10" fill="#161b22" stroke="#3fb950"/><text x="400" y="217" fill="#3fb950">LSTM</text>
+    <rect class="box" x="320" y="250" width="160" height="44" rx="10" fill="#161b22" stroke="#ffa657"/><text x="400" y="277" fill="#ffa657">XGBoost</text>
+    <rect class="box" x="320" y="310" width="160" height="44" rx="10" fill="#161b22" stroke="#7ee787" stroke-dasharray="5 4"/><text x="400" y="337" fill="#7ee787">Random Forest</text>
+    <rect class="box" x="320" y="370" width="160" height="44" rx="10" fill="#161b22" stroke="#79c0ff" stroke-dasharray="5 4"/><text x="400" y="397" fill="#79c0ff">LightGBM / CatBoost</text>
+    <rect class="box" x="320" y="430" width="160" height="44" rx="10" fill="#161b22" stroke="#d2a8ff" stroke-dasharray="5 4"/><text x="400" y="457" fill="#d2a8ff">GRU / TCN</text>
+  </g>
+
+  <!-- wires data -> learners -->
+  <g>
+    <path class="wire" d="M190 260 C260 260 260 92 320 92"/><path class="flow" stroke="#ff7b72" d="M190 260 C260 260 260 92 320 92"/>
+    <path class="wire" d="M190 260 C260 260 260 152 320 152"/><path class="flow" stroke="#f778ba" d="M190 260 C260 260 260 152 320 152"/>
+    <path class="wire" d="M190 260 C260 260 260 212 320 212"/><path class="flow" stroke="#3fb950" d="M190 260 C260 260 260 212 320 212"/>
+    <path class="wire" d="M190 260 C260 260 260 272 320 272"/><path class="flow" stroke="#ffa657" d="M190 260 C260 260 260 272 320 272"/>
+    <path class="wire" d="M190 260 C260 260 260 332 320 332"/><path class="flow" stroke="#7ee787" d="M190 260 C260 260 260 332 320 332"/>
+    <path class="wire" d="M190 260 C260 260 260 392 320 392"/><path class="flow" stroke="#79c0ff" d="M190 260 C260 260 260 392 320 392"/>
+    <path class="wire" d="M190 260 C260 260 260 452 320 452"/><path class="flow" stroke="#d2a8ff" d="M190 260 C260 260 260 452 320 452"/>
+  </g>
+
+  <!-- wires learners -> meta -->
+  <g>
+    <path class="wire" d="M480 92  C580 92  600 260 660 260"/><path class="flow" stroke="#ff7b72" d="M480 92  C580 92  600 260 660 260"/>
+    <path class="wire" d="M480 152 C580 152 600 260 660 260"/><path class="flow" stroke="#f778ba" d="M480 152 C580 152 600 260 660 260"/>
+    <path class="wire" d="M480 212 C580 212 600 260 660 260"/><path class="flow" stroke="#3fb950" d="M480 212 C580 212 600 260 660 260"/>
+    <path class="wire" d="M480 272 C580 272 600 260 660 260"/><path class="flow" stroke="#ffa657" d="M480 272 C580 272 600 260 660 260"/>
+    <path class="wire" d="M480 332 C580 332 600 260 660 260"/><path class="flow" stroke="#7ee787" d="M480 332 C580 332 600 260 660 260"/>
+    <path class="wire" d="M480 392 C580 392 600 260 660 260"/><path class="flow" stroke="#79c0ff" d="M480 392 C580 392 600 260 660 260"/>
+    <path class="wire" d="M480 452 C580 452 600 260 660 260"/><path class="flow" stroke="#d2a8ff" d="M480 452 C580 452 600 260 660 260"/>
+  </g>
+
+  <!-- meta learner -->
+  <rect class="glowcore" x="660" y="190" width="200" height="140" rx="18" fill="url(#core)" opacity=".25" filter="url(#glow)"/>
+  <rect class="box" x="660" y="190" width="200" height="140" rx="18" fill="#161b22" stroke="url(#core)" stroke-width="2"/>
+  <text x="760" y="238" fill="#e6edf3" font-size="17" font-weight="800" text-anchor="middle">Smart Blender</text>
+  <text x="760" y="264" fill="#8b949e" font-size="12" text-anchor="middle">stacking · regime-aware</text>
+  <text x="760" y="282" fill="#8b949e" font-size="12" text-anchor="middle">dynamic weights by recent error</text>
+  <text x="760" y="300" fill="#8b949e" font-size="12" text-anchor="middle">(Ridge / RF meta-model)</text>
+
+  <!-- output -->
+  <path class="wire" d="M860 260 L960 260"/><path class="flow" stroke="#e6edf3" d="M860 260 L960 260"/>
+  <rect class="box" x="960" y="200" width="200" height="120" rx="14" fill="#161b22" stroke="#e6edf3"/>
+  <text x="1060" y="245" fill="#e6edf3" font-size="16" font-weight="700" text-anchor="middle">Final forecast</text>
+  <text x="1060" y="270" fill="#8b949e" font-size="12" text-anchor="middle">point + interval</text>
+  <text x="1060" y="288" fill="#8b949e" font-size="12" text-anchor="middle">+ model attribution</text>
+
+  <text x="400" y="505" fill="#8b949e" font-size="11" text-anchor="middle">solid = in this repo · dashed = proposed additions</text>
+</svg>

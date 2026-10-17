@@ -1,0 +1,721 @@
+ds,y,category,source,note,id,value_unit
+2024-01-06 00:00:00,1094.2242785144927,YouTube Views,API,Verified,7401,users
+2024-06-01 00:00:00,1085.8294199397687,Website Traffic,Script,,7416,visits
+2024-03-29 00:00:00,1193.320268293969,Website Traffic,API,N/A,9078,users
+2024-01-24 00:00:00,1022.310675049864,Product Sales,API,Verified,9474,count
+2024-02-05 00:00:00,1102.035139636642,App Users,API,Verified,8230,sales
+2024-03-17 00:00:00,1182.5721169188669,Website Traffic,API,,3551,count
+2024-06-26 00:00:00,994.089603607971,App Users,Unknown,,8544,count
+2024-02-03 00:00:00,1049.1063658198734,Product Sales,Manual Entry,Verified,3066,visits
+2024-02-26 00:00:00,1055.4421768416405,App Users,API,,5790,count
+2024-06-15 00:00:00,1029.1088432314687,App Users,API,N/A,1331,visits
+2024-06-06 00:00:00,952.6168604431282,App Users,Unknown,Verified,5033,visits
+2024-04-10 00:00:00,818.6267191664535,Product Sales,Script,Verified,6997,visits
+2024-01-14 00:00:00,909.3641592854776,Product Sales,Unknown,Outlier,8527,sales
+2024-04-14 00:00:00,799.3213598356077,Product Sales,Manual Entry,Check again,6433,sales
+2024-02-06 00:00:00,1184.1736552499387,Website Traffic,API,Verified,5624,sales
+2024-02-24 00:00:00,1062.9684975201894,App Users,Script,N/A,4198,sales
+2024-03-29 00:00:00,1018.106334101436,App Users,Script,Outlier,3007,visits
+2024-03-11 00:00:00,,Website Traffic,Manual Entry,Outlier,3274,count
+2024-04-05 00:00:00,1067.5395295973447,Website Traffic,Script,N/A,5943,users
+2024-01-05 00:00:00,887.0834705991143,Product Sales,Unknown,,8031,sales
+2024-05-02 00:00:00,,YouTube Views,Unknown,Outlier,9017,sales
+2024-03-11 00:00:00,1117.4035455484996,App Users,Manual Entry,Verified,5577,visits
+2024-03-15 00:00:00,1229.6645852780025,Website Traffic,API,Verified,6546,visits
+2024-04-28 00:00:00,1185.9332620321443,YouTube Views,API,Check again,7652,sales
+2024-03-06 00:00:00,1375.3252212099928,YouTube Views,Script,Outlier,8069,count
+2024-06-05 00:00:00,1185.6776427089417,YouTube Views,API,N/A,3808,count
+2024-03-01 00:00:00,1193.668298245129,YouTube Views,Script,,4699,sales
+2024-03-13 00:00:00,1274.7436095056028,YouTube Views,API,,8597,count
+2024-04-15 00:00:00,1095.361237376445,Website Traffic,API,Verified,1612,count
+2024-03-10 00:00:00,1225.9124975942252,Website Traffic,API,Verified,2577,sales
+2024-05-23 00:00:00,962.7556040005553,Website Traffic,Unknown,Check again,7299,count
+2024-03-27 00:00:00,993.1618173758848,App Users,Script,Outlier,9770,users
+2024-01-27 00:00:00,930.7971369561767,Product Sales,API,Check again,9652,users
+2024-05-20 00:00:00,892.2140185118171,App Users,API,Verified,7132,sales
+2024-02-17 00:00:00,1246.6838870899312,Website Traffic,API,N/A,9103,count
+Not a date 456,1080.9523447741885,App Users,API,Check again,5875,sales
+2024-05-26 00:00:00,1058.2393043909137,Website Traffic,API,Verified,2715,sales
+2024-02-05 00:00:00,1347.9302806838477,YouTube Views,Script,,4134,count
+2024-03-20 00:00:00,,YouTube Views,Manual Entry,Outlier,5009,count
+2024-06-07 00:00:00,886.3683865931573,Product Sales,Script,,2619,visits
+2024-02-03 00:00:00,1124.0264075223097,App Users,Script,,8880,count
+2024-03-28 00:00:00,1069.9722011625443,App Users,Manual Entry,Outlier,1193,users
+2024-02-26 00:00:00,1318.51004890168,YouTube Views,Script,Outlier,2829,count
+2024-05-06 00:00:00,1050.4561370873662,Website Traffic,Manual Entry,N/A,9438,users
+2024-04-14 00:00:00,1061.301352189477,Website Traffic,Unknown,Verified,8167,visits
+2024-05-31 00:00:00,1001.286020511433,Website Traffic,Manual Entry,Verified,3326,visits
+2024-04-21 00:00:00,1092.169118312705,Website Traffic,Manual Entry,N/A,7509,count
+2024-02-20 00:00:00,990.947983046478,Product Sales,API,N/A,9033,users
+2024-03-27 00:00:00,1106.0321243755668,Website Traffic,Script,Outlier,6000,users
+2024-06-21 00:00:00,1091.2941988637115,YouTube Views,API,Check again,8084,users
+2024-06-21 00:00:00,921.0660784569613,Product Sales,Script,Verified,1581,visits
+2024-02-11 00:00:00,1099.3314517385613,App Users,API,Outlier,2460,users
+2024-03-10 00:00:00,1043.4237879448356,App Users,Manual Entry,Outlier,4516,count
+2024-06-03 00:00:00,835.4517531594721,Product Sales,Unknown,,8531,users
+2024-03-10 00:00:00,965.6161711354393,Product Sales,API,Check again,2778,users
+2024-01-30 00:00:00,1146.681757037084,YouTube Views,Script,N/A,2823,visits
+2024-04-06 00:00:00,1088.3583700097415,YouTube Views,Unknown,,4807,count
+2024-04-21 00:00:00,1105.0720935089669,YouTube Views,Script,Check again,1138,sales
+2024-06-21 00:00:00,939.8844292901132,App Users,Script,Outlier,5200,users
+2024-01-12 00:00:00,1152.3938713341097,YouTube Views,API,N/A,2998,users
+2024-05-09 00:00:00,1093.3620668133212,YouTube Views,API,Check again,3660,count
+2024-02-02 00:00:00,1262.7025885193843,YouTube Views,API,,4243,users
+2024-06-22 00:00:00,1045.3031733979735,Website Traffic,API,Verified,8358,visits
+2024-05-04 00:00:00,763.5136538439783,Product Sales,Script,Outlier,3171,count
+2024-06-15 00:00:00,1037.0778754887488,Website Traffic,Unknown,Outlier,6063,users
+2024-03-25 00:00:00,1216.373432066012,Website Traffic,Manual Entry,N/A,8239,count
+2024-04-08 00:00:00,883.2257383469105,Product Sales,Unknown,N/A,1593,users
+2024-01-11 00:00:00,1003.8988293242841,App Users,Script,,4674,users
+2024-05-28 00:00:00,740.4120585972736,Product Sales,Unknown,,8462,users
+2024-02-21 00:00:00,1178.1141559364057,Website Traffic,Script,Outlier,2727,count
+2024-02-05 00:00:00,1195.5132725943706,Website Traffic,Script,,7566,visits
+2024-04-09 00:00:00,911.8789656485103,App Users,Script,Check again,8815,sales
+2024-05-25 00:00:00,1110.4459777164611,YouTube Views,Manual Entry,Outlier,5761,sales
+2024-02-11 00:00:00,975.2094820926914,Product Sales,Manual Entry,N/A,9553,sales
+2024-01-31 00:00:00,1247.9612101086864,Website Traffic,Script,Outlier,1572,sales
+2024-04-04 00:00:00,995.8220159576535,App Users,API,N/A,4736,count
+2024-03-30 00:00:00,885.5411857214507,Product Sales,Unknown,N/A,6036,visits
+2024-01-20 00:00:00,1033.6926849363158,App Users,Manual Entry,Check again,6626,visits
+2024-05-29 00:00:00,1179.9996341200754,YouTube Views,Unknown,,8929,count
+2024-05-18 00:00:00,892.6164325137786,App Users,Manual Entry,N/A,4628,users
+2024-06-28 00:00:00,899.9518017141527,Product Sales,Manual Entry,,6560,count
+2024-06-11 00:00:00,807.4446625832464,Product Sales,API,N/A,5998,count
+2024-06-27 00:00:00,1138.2561284353612,Website Traffic,API,Outlier,7115,users
+2024-05-31 00:00:00,977.9880678569709,App Users,API,Check again,7574,visits
+2024-05-17 00:00:00,1261.067035648809,YouTube Views,Unknown,N/A,4211,count
+Not a date 629,1158.633930789125,YouTube Views,Script,N/A,7139,visits
+2024-06-20 00:00:00,835.1249909063652,Product Sales,Unknown,N/A,1204,visits
+2024-01-27 00:00:00,1265.5685903812468,YouTube Views,Unknown,Check again,3120,sales
+2024-02-13 00:00:00,958.7751673620543,Product Sales,API,Verified,4727,users
+2024-02-13 00:00:00,1267.259993951811,Website Traffic,Manual Entry,,1097,users
+2024-05-09 00:00:00,846.4323674111508,Product Sales,Manual Entry,Check again,9329,sales
+2024-05-26 00:00:00,1196.717244495435,YouTube Views,API,Verified,6867,sales
+2024-05-10 00:00:00,967.3192589695332,App Users,Unknown,N/A,4112,count
+2024-01-24 00:00:00,1248.1045933581213,YouTube Views,Unknown,,3658,visits
+2024-04-11 00:00:00,1016.1685484754144,Website Traffic,API,,7629,sales
+2024-01-13 00:00:00,989.9101683463784,App Users,API,Check again,7701,sales
+2024-04-15 00:00:00,931.9581905206838,App Users,Script,Outlier,2455,sales
+2024-06-03 00:00:00,999.9461495603668,Website Traffic,Script,N/A,7763,users
+2024-01-08 00:00:00,880.3515192698823,Product Sales,Manual Entry,N/A,5875,visits
+2024-01-21 00:00:00,,App Users,Script,N/A,9787,count
+2024-05-02 00:00:00,1026.8730150952977,Website Traffic,API,Outlier,2283,count
+2024-04-25 00:00:00,887.3967634659634,App Users,Script,,5987,sales
+2024-04-09 00:00:00,1194.4995167938444,YouTube Views,Script,,3352,users
+2024-03-21 00:00:00,1187.2781368937315,YouTube Views,Script,Verified,7628,users
+2024-01-12 00:00:00,,App Users,API,Verified,2377,users
+2024-01-31 00:00:00,978.2632846830068,Product Sales,Manual Entry,,9706,sales
+2024-05-28 00:00:00,1029.3497475477727,Website Traffic,API,,6433,count
+2024-01-09 00:00:00,799.3495361737913,Product Sales,Manual Entry,,2256,users
+2024-04-16 00:00:00,1077.1113451117003,Website Traffic,Unknown,N/A,1687,count
+2024-02-03 00:00:00,1250.7320290451892,YouTube Views,Manual Entry,N/A,7990,users
+2024-05-12 00:00:00,897.3811377519615,App Users,API,Check again,5492,visits
+2024-04-28 00:00:00,778.3377578557579,Product Sales,Script,Verified,2283,count
+2024-02-11 00:00:00,1131.5157591341451,Website Traffic,Script,,4137,visits
+2024-06-23 00:00:00,1097.8416869092123,Website Traffic,Manual Entry,,5628,count
+2024-03-23 00:00:00,1228.866104790897,YouTube Views,API,Verified,3172,users
+2024-02-09 00:00:00,1117.6541744757158,Website Traffic,Manual Entry,Verified,4648,sales
+2024-01-29 00:00:00,1271.920410780822,YouTube Views,Unknown,,4259,visits
+2024-03-15 00:00:00,927.6732165914364,Product Sales,API,Check again,2124,sales
+2024-02-20 00:00:00,1213.6519476636615,Website Traffic,Unknown,Check again,1610,visits
+2024-02-29 00:00:00,1005.5051406354446,Product Sales,API,Outlier,3979,sales
+2024-06-01 00:00:00,1133.4580100795736,YouTube Views,Unknown,Verified,9125,count
+2024-05-22 00:00:00,1128.652550579586,YouTube Views,Unknown,Check again,2960,users
+2024-06-14 00:00:00,999.6035078007785,Website Traffic,Script,N/A,7144,count
+2024-04-03 00:00:00,906.8792685703688,App Users,Script,,3261,visits
+2024-06-06 00:00:00,1147.6437189182764,YouTube Views,Manual Entry,,7642,count
+2024-01-19 00:00:00,1191.1545692891812,Website Traffic,API,Outlier,2938,count
+2024-02-14 00:00:00,1147.6103628091018,YouTube Views,Manual Entry,Outlier,1006,visits
+2024-05-29 00:00:00,860.331732946969,App Users,API,Check again,4741,users
+2024-05-11 00:00:00,1060.3319923545307,Website Traffic,API,N/A,8833,sales
+2024-03-19 00:00:00,1107.8783190586466,Website Traffic,Unknown,Outlier,1007,sales
+2024-03-07 00:00:00,1144.8768752403507,Product Sales,Manual Entry,Check again,8544,visits
+2024-03-03 00:00:00,1233.1284133721947,YouTube Views,Unknown,Outlier,6744,users
+2024-04-07 00:00:00,1236.2602721302233,YouTube Views,Unknown,,8151,count
+2024-05-21 00:00:00,831.5686743275819,Product Sales,Manual Entry,Check again,6017,visits
+2024-03-17 00:00:00,1081.411835064404,App Users,Unknown,Verified,7317,sales
+2024-06-26 00:00:00,1067.529600086707,Website Traffic,Manual Entry,,9179,users
+2024-03-06 00:00:00,995.5266101834436,Product Sales,Unknown,Verified,8604,visits
+2024-05-27 00:00:00,822.5213512708771,App Users,Manual Entry,,5615,visits
+2024-01-04 00:00:00,1161.8905709328822,Website Traffic,API,Check again,8927,count
+2024-03-04 00:00:00,1065.4561395948556,App Users,Script,N/A,1660,sales
+2024-04-25 00:00:00,822.9535871639357,Product Sales,Unknown,N/A,9667,sales
+2024-03-26 00:00:00,1018.1651230686306,App Users,API,N/A,6525,users
+2024-04-23 00:00:00,1010.2433067964682,Website Traffic,API,Verified,3591,visits
+2024-05-24 00:00:00,1150.1180518831795,YouTube Views,Manual Entry,Outlier,1882,visits
+2024-02-02 00:00:00,1083.8023002258803,App Users,API,Outlier,6394,count
+2024-02-15 00:00:00,1202.7585228240139,YouTube Views,API,N/A,4267,visits
+2024-05-15 00:00:00,755.2943558089827,Product Sales,API,Outlier,9186,sales
+2024-04-16 00:00:00,859.5921853479229,App Users,Unknown,N/A,7892,count
+2024-03-28 00:00:00,1131.187828611444,Website Traffic,Script,Check again,5654,sales
+2024-05-25 00:00:00,934.9680589385505,Product Sales,Script,Outlier,9895,visits
+2024-02-26 00:00:00,1054.2513051513201,Product Sales,API,Verified,3159,sales
+2024-01-30 00:00:00,987.650391828408,Product Sales,Script,Check again,2376,visits
+2024-06-01 00:00:00,971.8399904750978,App Users,Unknown,Verified,1726,count
+2024-01-20 00:00:00,1204.0154187582107,Website Traffic,Script,,9562,users
+2024-01-15 00:00:00,914.4705409343877,Product Sales,Unknown,,7381,visits
+2024-02-16 00:00:00,1177.1449080861446,Website Traffic,Script,,9174,count
+2024-04-29 00:00:00,1004.664661994232,Website Traffic,Manual Entry,N/A,1669,users
+2024-06-23 00:00:00,1001.1316002999231,App Users,API,Outlier,3497,sales
+2024-02-15 00:00:00,1159.109676781256,Website Traffic,Manual Entry,Check again,9535,sales
+2024-03-13 00:00:00,1096.040768139427,Website Traffic,API,Check again,7744,sales
+2024-03-20 00:00:00,917.1771333150609,Product Sales,Manual Entry,,2013,count
+2024-03-26 00:00:00,926.815929958748,Product Sales,Script,N/A,3023,sales
+2024-01-19 00:00:00,1225.597365136923,YouTube Views,Manual Entry,,6624,count
+2024-06-15 00:00:00,1222.5597704979355,YouTube Views,Script,Check again,3819,sales
+2024-03-21 00:00:00,924.3488359478158,App Users,Manual Entry,Check again,8986,visits
+2024-04-29 00:00:00,853.8946212935564,Product Sales,Script,Outlier,1659,sales
+2024-06-18 00:00:00,1156.1403943851196,Website Traffic,Script,Outlier,7659,sales
+2024-02-12 00:00:00,1188.9448241242796,Website Traffic,Script,Verified,7985,users
+2024-02-17 00:00:00,1106.151230044308,App Users,API,N/A,1040,count
+2024-06-14 00:00:00,,YouTube Views,Unknown,N/A,7142,count
+2024-05-23 00:00:00,831.9715678464681,Product Sales,Script,Check again,7052,users
+2024-05-11 00:00:00,890.3820222223736,App Users,Script,Verified,6670,visits
+2024-02-06 00:00:00,1338.082992150265,YouTube Views,Unknown,Outlier,3070,sales
+2024-03-03 00:00:00,1135.8010145884216,Website Traffic,Script,Outlier,4867,count
+2024-04-26 00:00:00,859.5144023534682,Product Sales,Script,Verified,2019,sales
+2024-04-08 00:00:00,1123.63750365653,YouTube Views,Manual Entry,,4236,visits
+2024-05-10 00:00:00,802.6140163342344,Product Sales,Manual Entry,,3097,count
+2024-03-14 00:00:00,1090.5558179768125,App Users,Unknown,Outlier,1342,count
+2024-06-19 00:00:00,801.8369157449154,Product Sales,Unknown,Outlier,8896,visits
+2024-02-25 00:00:00,1191.7209861522235,YouTube Views,API,Outlier,6546,visits
+2024-03-02 00:00:00,983.2791036780718,Product Sales,API,Outlier,9505,sales
+2024-02-22 00:00:00,924.3628828301497,Product Sales,Manual Entry,Outlier,4081,count
+2024-04-12 00:00:00,858.3310399967564,Product Sales,Unknown,Verified,1663,count
+2024-03-07 00:00:00,1295.8286398983537,YouTube Views,Script,Outlier,4415,visits
+Not a date 668,1235.292206071982,YouTube Views,Script,Check again,9848,users
+2024-03-09 00:00:00,1135.6649263789043,App Users,Unknown,Check again,8368,count
+2024-02-18 00:00:00,1047.0698912326243,Product Sales,Manual Entry,Check again,7019,count
+2024-01-16 00:00:00,1286.3892741002057,YouTube Views,Script,Check again,8064,sales
+2024-04-27 00:00:00,1067.8415922039621,Website Traffic,API,Check again,6108,visits
+2024-01-13 00:00:00,921.8742189015348,Product Sales,Script,,1301,sales
+2024-02-01 00:00:00,1329.481746630073,YouTube Views,Script,N/A,3242,visits
+2024-03-04 00:00:00,1354.428724424419,YouTube Views,Manual Entry,Verified,2900,visits
+2024-01-26 00:00:00,947.8793664165337,Product Sales,Script,,5183,sales
+2024-03-25 00:00:00,1105.9481565821866,App Users,Manual Entry,Verified,1771,count
+2024-06-12 00:00:00,815.1807435206744,App Users,Manual Entry,N/A,2774,visits
+2024-04-03 00:00:00,1127.3774732040827,Website Traffic,Script,,4525,users
+2024-03-09 00:00:00,1119.4919540843016,Website Traffic,Unknown,N/A,8264,users
+2024-06-20 00:00:00,1088.4683753367644,App Users,Unknown,Outlier,4868,users
+2024-03-04 00:00:00,1022.822617497703,Product Sales,Manual Entry,N/A,2037,sales
+2024-04-10 00:00:00,1160.5148732846162,Website Traffic,API,Verified,5135,users
+2024-03-22 00:00:00,1120.1425655838561,App Users,Unknown,Verified,4740,users
+2024-04-05 00:00:00,864.571054727009,App Users,API,N/A,7716,count
+2024-02-09 00:00:00,1076.339450537546,App Users,Manual Entry,Check again,5493,count
+2024-02-25 00:00:00,1216.145217398947,Website Traffic,Manual Entry,N/A,6774,count
+2024-04-26 00:00:00,1078.9946639672983,Website Traffic,Unknown,N/A,9766,users
+2024-06-21 00:00:00,1091.166446056345,Website Traffic,Script,,6925,sales
+2024-04-03 00:00:00,1221.3399031638517,YouTube Views,Unknown,Verified,5154,count
+2024-03-19 00:00:00,,YouTube Views,Unknown,N/A,5340,sales
+2024-05-01 00:00:00,879.1441224303896,App Users,Script,Verified,6482,sales
+2024-02-09 00:00:00,1159.1031378030602,YouTube Views,Manual Entry,Outlier,2635,count
+2024-02-21 00:00:00,1290.0684635061095,YouTube Views,Script,Outlier,8611,visits
+2024-06-02 00:00:00,1031.7470299867846,Website Traffic,Unknown,Check again,7980,count
+2024-05-09 00:00:00,839.9266384603892,App Users,Manual Entry,Verified,1182,sales
+2024-01-15 00:00:00,,Website Traffic,Unknown,Check again,7164,visits
+2024-06-02 00:00:00,1062.8904007344893,YouTube Views,API,Check again,3454,visits
+2024-01-10 00:00:00,1188.9416857353613,Website Traffic,Manual Entry,Verified,4959,visits
+2024-02-06 00:00:00,1034.150423024881,App Users,Unknown,Check again,2531,visits
+2024-02-28 00:00:00,1239.0062150467854,YouTube Views,Unknown,Verified,7468,sales
+2024-06-11 00:00:00,915.4841608387571,App Users,Script,,1593,visits
+2024-02-19 00:00:00,1195.3469715494914,App Users,API,Verified,9259,users
+2024-03-12 00:00:00,1015.3000898861435,Product Sales,Script,N/A,6110,sales
+2024-05-31 00:00:00,774.4525346180471,Product Sales,Manual Entry,N/A,3839,visits
+2024-06-04 00:00:00,868.8118193308746,Product Sales,Script,,5283,count
+2024-01-26 00:00:00,1036.554811912892,App Users,Unknown,Outlier,2750,count
+2024-05-22 00:00:00,856.8389935565966,Product Sales,API,Verified,8999,visits
+2024-04-15 00:00:00,1010.8065953189669,YouTube Views,Manual Entry,Verified,2439,visits
+2024-06-18 00:00:00,1203.7000315870546,YouTube Views,API,Outlier,4119,sales
+2024-01-02 00:00:00,990.6660982417917,App Users,API,Verified,5646,count
+2024-01-23 00:00:00,1029.2699441364553,App Users,Manual Entry,,1423,sales
+2024-03-17 00:00:00,1188.1050432619973,YouTube Views,API,Check again,7268,visits
+2024-03-01 00:00:00,1224.7333969454153,Website Traffic,Manual Entry,,7823,sales
+2024-01-11 00:00:00,977.5344259988872,Product Sales,Script,,3196,count
+Not a date 27,975.9060650492527,Product Sales,Manual Entry,Outlier,4754,visits
+2024-04-22 00:00:00,1065.0973652933715,Website Traffic,Manual Entry,Outlier,6906,count
+2024-01-21 00:00:00,1232.7659302659588,Website Traffic,Manual Entry,Check again,6976,count
+2024-04-10 00:00:00,1183.248849697635,YouTube Views,Unknown,,2932,count
+2024-06-28 00:00:00,1192.3279713761945,Website Traffic,Manual Entry,Verified,1459,count
+2024-04-24 00:00:00,842.5835090701207,Product Sales,Manual Entry,Verified,3810,visits
+2024-01-05 00:00:00,909.8286415416705,App Users,Unknown,N/A,8374,users
+2024-05-01 00:00:00,881.0269091902021,Product Sales,Script,Outlier,9590,sales
+2024-04-04 00:00:00,1118.9292146872256,YouTube Views,API,Outlier,6619,sales
+2024-06-17 00:00:00,974.828416869374,App Users,Manual Entry,Check again,3702,visits
+2024-03-23 00:00:00,1128.7506857487547,Website Traffic,Script,Outlier,6416,visits
+2024-02-24 00:00:00,1106.7042892677707,Website Traffic,API,Verified,3324,sales
+2024-01-10 00:00:00,1212.677329538504,YouTube Views,Manual Entry,Check again,2856,users
+2024-06-19 00:00:00,1128.4676886089212,Website Traffic,Manual Entry,Outlier,1441,count
+2024-06-06 00:00:00,770.4838477335782,Product Sales,Unknown,N/A,8710,sales
+2024-06-28 00:00:00,995.5686443185906,App Users,Unknown,Outlier,1770,sales
+2024-03-06 00:00:00,1156.9167276349424,Website Traffic,Script,Outlier,3113,count
+2024-02-04 00:00:00,1132.1092593122958,App Users,API,,6075,count
+2024-05-26 00:00:00,953.430519423843,App Users,API,N/A,4321,sales
+2024-05-27 00:00:00,1059.8610955879133,Website Traffic,API,Verified,7450,count
+2024-04-28 00:00:00,863.5966162995874,App Users,Unknown,Verified,4828,sales
+2024-04-14 00:00:00,957.9946265621454,App Users,Script,,6410,visits
+2024-02-18 00:00:00,1175.860556023421,Website Traffic,Manual Entry,,6413,visits
+2024-03-25 00:00:00,1252.8482438306642,YouTube Views,Script,N/A,7313,visits
+2024-05-13 00:00:00,1156.111256114472,YouTube Views,API,Outlier,2140,visits
+2024-03-24 00:00:00,1272.8926935381073,YouTube Views,Script,N/A,6668,users
+2024-03-07 00:00:00,1275.5937027885564,Website Traffic,Unknown,,6879,count
+2024-02-14 00:00:00,946.4352742139765,Product Sales,Manual Entry,Check again,7272,count
+2024-04-29 00:00:00,1138.2558002862665,YouTube Views,Unknown,Outlier,7416,sales
+2024-02-16 00:00:00,1286.7529510425877,YouTube Views,Unknown,Outlier,7564,sales
+2024-06-08 00:00:00,902.8145372767002,Product Sales,Script,Check again,7868,visits
+2024-06-19 00:00:00,866.5732337604236,App Users,Unknown,,6054,count
+2024-02-13 00:00:00,1164.360061255138,YouTube Views,Manual Entry,Verified,8835,users
+2024-06-13 00:00:00,889.4886092456823,Product Sales,API,,2974,sales
+2024-02-28 00:00:00,1163.1153297954784,Website Traffic,Script,,1781,visits
+2024-05-19 00:00:00,1050.063492128305,Website Traffic,API,N/A,3504,visits
+2024-02-29 00:00:00,1186.3123793706143,YouTube Views,Manual Entry,Outlier,1929,count
+2024-03-27 00:00:00,899.0661831906785,Product Sales,API,N/A,5966,sales
+2024-03-21 00:00:00,985.8170502656889,Website Traffic,Manual Entry,,3555,users
+2024-05-01 00:00:00,1134.875871725325,YouTube Views,API,,4835,sales
+2024-04-14 00:00:00,1074.072670448433,YouTube Views,Unknown,,1946,sales
+2024-01-28 00:00:00,1077.4498782949233,App Users,Unknown,N/A,2967,count
+2024-02-04 00:00:00,,Product Sales,API,N/A,1022,users
+2024-05-01 00:00:00,1059.9158791590608,Website Traffic,Script,Check again,8329,sales
+2024-01-06 00:00:00,893.3681020800266,Product Sales,Unknown,Verified,6341,sales
+2024-05-03 00:00:00,1069.7711320043513,YouTube Views,Unknown,Outlier,3151,visits
+2024-04-17 00:00:00,1185.2849358234946,YouTube Views,API,Verified,5857,count
+2024-01-05 00:00:00,1292.7447014540778,YouTube Views,Unknown,N/A,7439,users
+2024-05-21 00:00:00,815.511656384787,App Users,API,Verified,7588,users
+2024-04-19 00:00:00,838.4893847169586,Product Sales,Manual Entry,Outlier,7256,sales
+2024-02-05 00:00:00,1056.8033727715226,Product Sales,API,Verified,3460,visits
+2024-02-24 00:00:00,988.8670359845678,Product Sales,Unknown,Outlier,4967,users
+2024-04-12 00:00:00,1145.1082226390702,YouTube Views,Script,N/A,5916,users
+2024-03-02 00:00:00,1070.4391549817524,App Users,Unknown,Outlier,1778,count
+2024-03-18 00:00:00,1133.9537729728745,YouTube Views,Script,Outlier,1910,sales
+2024-02-21 00:00:00,969.4252179310237,Product Sales,API,N/A,3520,users
+2024-05-12 00:00:00,1038.6615296873626,YouTube Views,Script,N/A,4162,sales
+2024-04-06 00:00:00,1097.7115123826104,Website Traffic,Manual Entry,Verified,7530,visits
+2024-04-01 00:00:00,1156.4824444796568,YouTube Views,API,Verified,3416,sales
+2024-01-23 00:00:00,942.430522806004,Product Sales,Manual Entry,Verified,7579,visits
+2024-02-23 00:00:00,1240.6831054446982,Website Traffic,Unknown,,6055,users
+2024-02-18 00:00:00,1117.40568520181,App Users,Script,Verified,6827,sales
+2024-01-07 00:00:00,,YouTube Views,Unknown,Outlier,5008,visits
+2024-01-16 00:00:00,1172.4093849908593,Website Traffic,Manual Entry,Verified,4670,users
+2024-01-22 00:00:00,1256.1310507112125,YouTube Views,API,Verified,2130,count
+2024-06-24 00:00:00,1226.8453158332384,YouTube Views,Manual Entry,Verified,4935,sales
+2024-05-14 00:00:00,900.5983239571719,App Users,Script,N/A,2517,count
+2024-04-05 00:00:00,1133.1141547540567,YouTube Views,API,,2936,users
+2024-04-22 00:00:00,993.7609437490935,App Users,API,Verified,5976,users
+2024-02-27 00:00:00,1233.6228097336816,YouTube Views,Unknown,Verified,9767,sales
+2024-05-15 00:00:00,1003.514419893976,Website Traffic,Manual Entry,Verified,1645,users
+2024-01-21 00:00:00,973.3063209294504,Product Sales,API,Verified,4537,users
+2024-06-04 00:00:00,848.4193562397741,App Users,Unknown,N/A,2875,visits
+2024-05-12 00:00:00,833.7881679921034,Product Sales,API,N/A,7397,count
+2024-01-03 00:00:00,,App Users,Manual Entry,Check again,1392,users
+2024-03-31 00:00:00,1159.9205303884926,YouTube Views,Manual Entry,Outlier,7344,count
+2024-04-30 00:00:00,773.3859842406281,Product Sales,Unknown,Outlier,3010,count
+2024-03-02 00:00:00,1240.9879698090967,Website Traffic,Script,,3105,count
+2024-01-03 00:00:00,923.0331780109714,Product Sales,Manual Entry,N/A,1685,visits
+2024-05-10 00:00:00,1061.3818026729764,Website Traffic,API,Check again,4864,visits
+2024-05-08 00:00:00,888.8013899399414,Product Sales,API,,9691,count
+2024-01-14 00:00:00,1230.6522665837877,YouTube Views,Manual Entry,Check again,5669,users
+2024-03-26 00:00:00,1224.1489332780257,YouTube Views,API,Verified,9315,sales
+2024-04-16 00:00:00,1156.322353082573,YouTube Views,API,Verified,8730,sales
+2024-01-14 00:00:00,1114.620845662946,App Users,Script,N/A,3597,count
+2024-05-14 00:00:00,827.823091027845,Product Sales,Unknown,Check again,4920,visits
+2024-03-16 00:00:00,1127.9957693072927,Website Traffic,Unknown,Outlier,7852,count
+2024-02-03 00:00:00,1242.7915798602378,Website Traffic,Manual Entry,Outlier,8097,users
+2024-03-20 00:00:00,1148.0979458865493,Website Traffic,Manual Entry,Check again,9087,sales
+2024-01-25 00:00:00,1214.112211014193,Website Traffic,Script,Outlier,8345,sales
+2024-04-26 00:00:00,1131.118240206013,YouTube Views,Script,N/A,7626,count
+2024-01-06 00:00:00,1129.2870639372215,Website Traffic,API,,6591,count
+2024-05-18 00:00:00,782.4282645570964,Product Sales,API,N/A,7900,sales
+2024-03-24 00:00:00,1041.2343978480678,App Users,Unknown,N/A,2478,sales
+2024-04-25 00:00:00,1060.0258687476103,YouTube Views,Unknown,,2627,users
+2024-01-18 00:00:00,988.6165062920063,Product Sales,Script,Verified,9853,users
+2024-04-01 00:00:00,882.250265950997,Product Sales,Manual Entry,,4292,count
+2024-06-12 00:00:00,1075.7059937240124,Website Traffic,Unknown,N/A,7344,visits
+2024-06-17 00:00:00,1094.7472247380433,Website Traffic,API,Check again,9831,visits
+2024-03-12 00:00:00,1226.375979610327,Website Traffic,API,N/A,5869,users
+2024-04-23 00:00:00,806.8814543697026,Product Sales,API,Check again,2136,users
+2024-01-29 00:00:00,1049.8957206456098,App Users,Script,Check again,5088,visits
+2024-04-30 00:00:00,989.0489469409197,App Users,API,Outlier,1703,count
+2024-01-08 00:00:00,1063.8407984909745,Website Traffic,Script,Check again,2449,visits
+2024-05-02 00:00:00,880.5461165737446,Product Sales,API,,2733,count
+2024-02-27 00:00:00,948.9380332078492,Product Sales,Manual Entry,Check again,6132,count
+2024-03-16 00:00:00,1226.6279162462563,YouTube Views,Unknown,N/A,3309,users
+2024-01-07 00:00:00,1093.9286213203127,Website Traffic,Unknown,,7342,visits
+2024-02-25 00:00:00,976.0485940265925,Product Sales,Script,Check again,7445,count
+2024-01-04 00:00:00,1057.9026980571357,App Users,Script,Outlier,2787,visits
+2024-05-05 00:00:00,884.7135399063916,App Users,Script,,5912,visits
+2024-02-06 00:00:00,1009.1857827798145,Product Sales,Manual Entry,N/A,6926,count
+2024-01-02 00:00:00,1143.5260511602798,Website Traffic,Manual Entry,Outlier,5000,count
+2024-05-16 00:00:00,1044.3705027405067,YouTube Views,Unknown,Check again,4630,visits
+2024-05-03 00:00:00,887.7975910253069,App Users,Manual Entry,,2800,visits
+2024-04-24 00:00:00,1139.5298288148813,YouTube Views,Manual Entry,,4456,users
+2024-04-16 00:00:00,851.9961153050072,Product Sales,Script,Outlier,1867,users
+2024-02-07 00:00:00,1106.3406611172688,App Users,Manual Entry,Outlier,3990,sales
+2024-01-29 00:00:00,1225.229325688515,Website Traffic,Script,N/A,4062,sales
+2024-01-17 00:00:00,1187.519004533181,YouTube Views,Manual Entry,Verified,8446,visits
+2024-03-24 00:00:00,1075.6904081729042,Website Traffic,Manual Entry,,9676,count
+2024-02-27 00:00:00,1246.8325353291323,Website Traffic,API,Verified,2749,sales
+2024-03-31 00:00:00,964.0758754703658,Product Sales,Script,Verified,3563,users
+2024-05-20 00:00:00,980.0098646806298,Website Traffic,API,Check again,1587,visits
+2024-06-22 00:00:00,868.6016540193432,Product Sales,Unknown,Verified,6675,users
+2024-03-17 00:00:00,908.7483794070329,Product Sales,API,Outlier,3179,sales
+2024-05-18 00:00:00,1024.6579566365165,Website Traffic,Script,Outlier,3990,users
+2024-03-06 00:00:00,1118.603301179132,App Users,Unknown,N/A,8851,users
+2024-04-04 00:00:00,1110.8550303730306,Website Traffic,Script,Check again,3822,visits
+2024-06-10 00:00:00,912.8791717304321,App Users,Manual Entry,Outlier,9611,visits
+2024-05-07 00:00:00,1179.4111610822695,YouTube Views,Manual Entry,Outlier,2307,count
+2024-06-19 00:00:00,1188.5556027632756,YouTube Views,Unknown,N/A,2863,sales
+2024-03-22 00:00:00,1176.726817040126,YouTube Views,API,N/A,3169,visits
+2024-05-03 00:00:00,1032.4135993788022,Website Traffic,Manual Entry,Outlier,1923,count
+2024-04-03 00:00:00,907.064580169519,Product Sales,API,,5431,visits
+2024-06-08 00:00:00,834.5323424768147,App Users,Script,Verified,1989,visits
+2024-01-16 00:00:00,,Product Sales,API,Outlier,1646,visits
+2024-01-09 00:00:00,,YouTube Views,API,Outlier,3282,users
+Not a date 160,876.0230856504925,Product Sales,API,Outlier,2431,sales
+2024-05-13 00:00:00,1020.1538899998101,Website Traffic,API,Outlier,1226,visits
+2024-05-06 00:00:00,1095.1787084252082,YouTube Views,Unknown,,3567,visits
+2024-03-01 00:00:00,937.035179706552,Product Sales,Script,Outlier,3649,visits
+2024-01-23 00:00:00,1114.7699166040866,Website Traffic,Manual Entry,N/A,9616,count
+2024-04-25 00:00:00,1055.803507550097,Website Traffic,Script,N/A,6248,visits
+2024-05-25 00:00:00,779.238404041594,App Users,Unknown,Check again,1987,visits
+2024-04-28 00:00:00,993.0170081261706,Website Traffic,API,Verified,4604,count
+2024-01-03 00:00:00,1098.7275973699177,YouTube Views,Unknown,N/A,1386,sales
+2024-01-06 00:00:00,1038.5009866197797,App Users,Manual Entry,Verified,2138,visits
+2024-02-14 00:00:00,1216.1783601276575,Website Traffic,Script,N/A,4750,users
+2024-03-03 00:00:00,1033.7553862657508,Product Sales,Script,Check again,4083,users
+2024-04-22 00:00:00,1093.1269434342232,YouTube Views,Script,Verified,1358,count
+2024-04-02 00:00:00,1152.1680639007225,YouTube Views,Script,Outlier,9988,count
+2024-05-19 00:00:00,1120.91143422281,YouTube Views,Manual Entry,Check again,1475,visits
+2024-03-05 00:00:00,1176.9276825344123,YouTube Views,Script,Verified,7980,visits
+2024-03-12 00:00:00,1083.0987738538277,App Users,Manual Entry,Check again,1727,visits
+2024-02-08 00:00:00,949.7079202900483,Product Sales,API,Check again,8295,sales
+2024-03-09 00:00:00,1223.5196177982968,YouTube Views,Manual Entry,Verified,7218,count
+2024-05-11 00:00:00,1101.676973090953,YouTube Views,Manual Entry,Outlier,7207,count
+2024-06-18 00:00:00,874.2789785729808,Product Sales,Manual Entry,Check again,3014,sales
+2024-04-27 00:00:00,856.1108601368703,App Users,Manual Entry,Outlier,1340,sales
+2024-01-17 00:00:00,1004.8419415170902,App Users,API,Verified,5596,visits
+2024-02-17 00:00:00,1295.3350525804744,YouTube Views,API,Check again,5928,users
+2024-04-02 00:00:00,1058.581554663727,Website Traffic,Unknown,,7971,sales
+2024-06-16 00:00:00,1065.404040998913,Website Traffic,Unknown,Verified,4830,visits
+2024-05-04 00:00:00,893.1650135087689,App Users,API,,6463,users
+2024-06-10 00:00:00,1166.4403763996547,YouTube Views,Manual Entry,Verified,4802,users
+2024-03-20 00:00:00,1006.8082279188109,App Users,API,,1405,users
+2024-04-02 00:00:00,760.5541430736677,Product Sales,API,Check again,4586,sales
+2024-06-26 00:00:00,1143.1008118259379,YouTube Views,Unknown,,6442,visits
+2024-06-11 00:00:00,1133.350294284124,YouTube Views,Script,Verified,5699,sales
+2024-04-21 00:00:00,908.5965417414208,App Users,API,N/A,2325,users
+2024-05-06 00:00:00,780.5987683734965,Product Sales,Script,N/A,4471,count
+2024-06-09 00:00:00,1068.0296072032534,Website Traffic,Manual Entry,Verified,5578,count
+2024-03-04 00:00:00,1177.1081649147038,Website Traffic,Unknown,,8193,sales
+2024-06-26 00:00:00,899.2862702055007,Product Sales,Script,Verified,3297,count
+2024-02-23 00:00:00,1053.8040249460303,Product Sales,Manual Entry,,2428,users
+2024-04-12 00:00:00,991.4593352028307,App Users,Unknown,N/A,3800,visits
+2024-01-10 00:00:00,1034.640071875571,App Users,Script,Verified,3454,sales
+2024-05-29 00:00:00,986.7235245593298,Website Traffic,Script,Outlier,2098,count
+2024-05-24 00:00:00,874.9652662478393,Product Sales,Script,Verified,3096,users
+2024-04-30 00:00:00,1061.430877907011,YouTube Views,Unknown,N/A,4170,count
+2024-06-24 00:00:00,914.4521418039869,Product Sales,API,Outlier,3643,sales
+2024-03-08 00:00:00,1199.983043968679,YouTube Views,API,Outlier,1442,users
+2024-04-17 00:00:00,1029.1083039807659,Website Traffic,Unknown,Outlier,4690,users
+2024-02-25 00:00:00,1161.6657376775051,App Users,Unknown,Check again,6374,users
+2024-04-15 00:00:00,800.2519599192615,Product Sales,Manual Entry,Verified,6093,sales
+2024-02-15 00:00:00,1009.7182326205749,Product Sales,Unknown,,6995,count
+2024-02-26 00:00:00,,Website Traffic,Script,Verified,7519,users
+2024-04-10 00:00:00,976.8460446976396,App Users,Unknown,Outlier,4451,visits
+2024-05-05 00:00:00,1028.6150482805856,YouTube Views,Script,Check again,3834,count
+2024-05-17 00:00:00,793.3998882141226,Product Sales,API,,3610,sales
+2024-01-25 00:00:00,1006.2696938250882,App Users,API,,5249,visits
+2024-06-22 00:00:00,989.9769884838744,App Users,Manual Entry,Verified,1201,count
+2024-06-04 00:00:00,1186.6311596730447,YouTube Views,Unknown,N/A,2946,users
+2024-05-16 00:00:00,832.2031959781549,Product Sales,API,Outlier,2900,count
+Not a date 304,1089.1697041234338,Website Traffic,Unknown,Check again,2125,visits
+2024-01-07 00:00:00,894.5351054194788,Product Sales,API,Verified,1038,users
+2024-03-08 00:00:00,927.7956394928142,Product Sales,Unknown,Outlier,3634,visits
+2024-04-30 00:00:00,1068.3479031431627,Website Traffic,API,Check again,5364,count
+2024-02-18 00:00:00,1325.9070497355096,YouTube Views,Script,Check again,3606,count
+2024-04-13 00:00:00,974.2894265839916,Website Traffic,API,Outlier,6110,count
+2024-01-25 00:00:00,991.8960837025911,Product Sales,API,N/A,5082,users
+2024-04-19 00:00:00,970.6197206749697,App Users,Script,Outlier,5796,count
+2024-05-16 00:00:00,818.706508409415,App Users,Manual Entry,N/A,2356,count
+2024-06-24 00:00:00,1087.6933228765727,Website Traffic,Manual Entry,Verified,7370,users
+2024-04-07 00:00:00,1071.6535668978127,Website Traffic,Unknown,Check again,1258,sales
+2024-05-27 00:00:00,1133.0938397797859,YouTube Views,API,N/A,7963,count
+2024-04-23 00:00:00,1100.9820706427795,YouTube Views,Manual Entry,Check again,5931,sales
+2024-06-28 00:00:00,1162.7595079296168,YouTube Views,API,N/A,7980,count
+2024-04-08 00:00:00,1036.853254586153,App Users,Unknown,N/A,5378,users
+2024-03-15 00:00:00,1049.803864493346,App Users,Unknown,Verified,2447,sales
+2024-05-29 00:00:00,873.6416262747105,Product Sales,Unknown,,6105,visits
+2024-02-12 00:00:00,1252.8170978716896,YouTube Views,Manual Entry,N/A,7583,count
+2024-03-19 00:00:00,931.1930537225901,Product Sales,Manual Entry,N/A,2929,users
+2024-04-18 00:00:00,896.2841486978041,App Users,API,,7796,sales
+2024-06-27 00:00:00,1226.190218085448,YouTube Views,API,Check again,3490,users
+2024-05-06 00:00:00,921.7200458636191,App Users,Script,Check again,5648,users
+2024-03-23 00:00:00,941.2814973704398,Product Sales,Manual Entry,Outlier,2828,visits
+2024-02-24 00:00:00,1270.8186079972306,YouTube Views,API,Check again,2442,sales
+2024-02-22 00:00:00,1177.2259719321378,App Users,Manual Entry,Outlier,8789,count
+2024-03-18 00:00:00,1196.0601291581781,Website Traffic,Manual Entry,Check again,7411,users
+2024-01-01 00:00:00,1171.1018515649341,YouTube Views,Unknown,N/A,4155,count
+2024-03-14 00:00:00,1231.8138807661608,YouTube Views,API,Check again,5458,users
+2024-04-11 00:00:00,1223.4734713123264,YouTube Views,Unknown,Verified,9556,visits
+2024-02-22 00:00:00,1317.0956508903241,Website Traffic,Unknown,Outlier,2854,count
+2024-05-18 00:00:00,1201.085757945107,YouTube Views,API,Check again,7538,visits
+2024-02-17 00:00:00,1047.0792164225848,Product Sales,Manual Entry,Verified,1448,sales
+2024-06-20 00:00:00,1080.8373383826179,Website Traffic,API,N/A,7040,sales
+2024-03-11 00:00:00,1304.3023370306955,YouTube Views,Unknown,Outlier,8939,visits
+2024-05-17 00:00:00,794.5408343471012,App Users,Unknown,Verified,4629,users
+2024-01-08 00:00:00,1207.070644691204,YouTube Views,Manual Entry,N/A,3466,count
+2024-01-27 00:00:00,1218.4637747007062,Website Traffic,Script,Verified,7633,count
+2024-05-13 00:00:00,739.964297287218,Product Sales,API,Verified,3757,count
+2024-05-22 00:00:00,972.2006993609989,Website Traffic,Unknown,N/A,4348,users
+2024-02-15 00:00:00,1082.2459073021773,App Users,Unknown,N/A,7816,count
+2024-05-31 00:00:00,1148.0354626161486,YouTube Views,Script,Verified,8269,count
+2024-05-08 00:00:00,1010.4892150746169,Website Traffic,Manual Entry,N/A,9004,sales
+2024-02-23 00:00:00,1126.419308394343,App Users,API,,6717,users
+2024-01-25 00:00:00,1197.0713497704228,YouTube Views,Script,Check again,4500,sales
+2024-06-09 00:00:00,1206.241572350654,YouTube Views,Manual Entry,Verified,7068,count
+Not a date 529,991.7633763951178,App Users,Script,,6889,visits
+2024-03-02 00:00:00,1121.7104823917546,YouTube Views,Manual Entry,Outlier,2054,users
+2024-04-17 00:00:00,822.3135697576647,Product Sales,Script,N/A,9623,visits
+2024-05-27 00:00:00,800.5399201513547,Product Sales,API,N/A,4331,users
+2024-03-18 00:00:00,1139.3420573605908,App Users,API,N/A,1526,users
+2024-02-10 00:00:00,1040.2724262699994,Product Sales,Manual Entry,N/A,7279,sales
+2024-06-12 00:00:00,1096.0225076486197,YouTube Views,Script,Outlier,2970,users
+2024-01-20 00:00:00,984.161088582843,Product Sales,Manual Entry,Verified,8003,count
+2024-02-19 00:00:00,1222.7580870570446,Website Traffic,Script,,5666,sales
+2024-06-05 00:00:00,,Product Sales,API,N/A,8736,users
+2024-05-22 00:00:00,803.0177523718996,App Users,Unknown,Outlier,4311,visits
+2024-04-24 00:00:00,1087.5984957864791,Website Traffic,Script,Outlier,8183,sales
+2024-03-19 00:00:00,1045.6956493883617,App Users,API,Verified,7748,visits
+2024-03-07 00:00:00,1043.1870793934165,App Users,Script,Outlier,8156,sales
+2024-06-02 00:00:00,882.7823007278823,Product Sales,Manual Entry,N/A,1685,visits
+2024-03-29 00:00:00,1167.7878221775163,YouTube Views,Manual Entry,Outlier,1785,sales
+2024-06-14 00:00:00,917.498304455043,Product Sales,Script,,4291,users
+2024-03-14 00:00:00,958.3405855248978,Product Sales,API,Check again,8378,sales
+2024-06-08 00:00:00,1164.1727185193943,YouTube Views,Unknown,,4536,users
+2024-06-20 00:00:00,1177.2933330589224,YouTube Views,Manual Entry,Verified,1115,count
+2024-01-02 00:00:00,921.4878460407596,Product Sales,Unknown,,3461,sales
+2024-01-28 00:00:00,1387.3831283327904,Website Traffic,API,Verified,1597,sales
+2024-04-20 00:00:00,1022.7448101085157,Website Traffic,API,,8133,users
+2024-06-13 00:00:00,994.605732441637,Website Traffic,Unknown,,6779,visits
+2024-04-07 00:00:00,867.5819434569928,Product Sales,Unknown,Verified,1161,visits
+2024-03-26 00:00:00,1059.8960175407567,Website Traffic,Manual Entry,Verified,7710,visits
+2024-01-27 00:00:00,1052.8293051492126,App Users,Script,Check again,5757,visits
+2024-03-11 00:00:00,895.0192766444601,Product Sales,API,Check again,8902,visits
+2024-01-24 00:00:00,1139.1587712493983,Website Traffic,Manual Entry,N/A,7304,users
+2024-06-25 00:00:00,1027.7904516771882,Product Sales,API,N/A,9017,sales
+2024-02-08 00:00:00,1326.0075043834818,Website Traffic,Script,Verified,2517,count
+2024-05-30 00:00:00,1048.7280197454222,YouTube Views,Unknown,,6347,visits
+2024-03-05 00:00:00,1050.573876430373,App Users,Manual Entry,Verified,2348,users
+2024-04-17 00:00:00,949.8264497560845,App Users,API,Verified,6808,sales
+2024-02-23 00:00:00,1257.9100714963981,YouTube Views,Script,Verified,3011,users
+2024-03-22 00:00:00,989.7380522051112,Product Sales,Unknown,Verified,8321,users
+2024-02-08 00:00:00,1178.7891127989892,YouTube Views,Script,N/A,2141,visits
+2024-05-04 00:00:00,1056.753351369813,YouTube Views,Manual Entry,,7905,visits
+2024-06-27 00:00:00,974.0412743918487,App Users,Unknown,N/A,8718,users
+2024-02-21 00:00:00,1108.0015052725726,App Users,Unknown,N/A,8804,sales
+2024-05-24 00:00:00,1082.447931621711,Website Traffic,Script,Verified,4831,users
+2024-05-21 00:00:00,1126.2725389019533,Website Traffic,Unknown,Outlier,5079,count
+2024-01-17 00:00:00,924.2907441215331,Product Sales,Manual Entry,N/A,9789,visits
+2024-04-13 00:00:00,1106.340835312065,YouTube Views,Unknown,Outlier,6498,sales
+2024-02-07 00:00:00,1213.509396840711,Website Traffic,Manual Entry,Check again,2633,sales
+2024-02-01 00:00:00,1122.1604796559889,App Users,Unknown,Outlier,3946,users
+2024-01-01 00:00:00,946.6533131376168,App Users,API,,8568,sales
+2024-06-06 00:00:00,1019.9393115489042,Website Traffic,Script,,9915,visits
+2024-01-29 00:00:00,959.3295682154998,Product Sales,Manual Entry,Check again,2724,count
+2024-02-13 00:00:00,1066.8941590573988,App Users,Script,,1285,users
+2024-03-12 00:00:00,1243.192673051941,YouTube Views,Unknown,N/A,8833,users
+2024-02-20 00:00:00,1281.4015027680439,YouTube Views,API,Outlier,4273,users
+2024-02-12 00:00:00,1169.0893924081888,App Users,Unknown,,3723,users
+2024-04-20 00:00:00,,YouTube Views,Unknown,N/A,9491,count
+2024-06-14 00:00:00,943.1198938410349,App Users,Manual Entry,Outlier,4808,sales
+2024-02-04 00:00:00,1167.5128786111188,Website Traffic,Script,Verified,3090,users
+2024-05-15 00:00:00,1211.918150124024,YouTube Views,Unknown,N/A,2708,count
+2024-06-25 00:00:00,1233.7670554017432,YouTube Views,Script,,8742,sales
+Not a date 609,1213.8446136196058,YouTube Views,Unknown,Outlier,5652,count
+2024-04-18 00:00:00,1047.0873180996887,Website Traffic,Unknown,Outlier,9804,sales
+2024-01-28 00:00:00,1241.8820340711106,YouTube Views,API,Outlier,5020,visits
+2024-03-30 00:00:00,1020.4482194039516,App Users,Unknown,,2185,sales
+2024-01-17 00:00:00,1170.545641271521,Website Traffic,Unknown,,2753,count
+2024-01-19 00:00:00,1089.6010544224923,Product Sales,API,Verified,5330,visits
+2024-03-27 00:00:00,1156.9503447563316,YouTube Views,Manual Entry,Check again,9036,users
+2024-02-19 00:00:00,1039.641136412469,Product Sales,API,Verified,6343,count
+Not a date 317,1012.9219109900886,Website Traffic,API,N/A,6569,users
+2024-02-02 00:00:00,929.7718613222552,Product Sales,Manual Entry,,2653,sales
+2024-02-28 00:00:00,1034.0581012545983,Product Sales,Manual Entry,N/A,3547,users
+2024-04-27 00:00:00,761.586403711735,Product Sales,Unknown,N/A,6237,visits
+2024-03-09 00:00:00,,Product Sales,API,,4983,users
+2024-06-05 00:00:00,919.1709989953276,App Users,Unknown,Verified,7993,visits
+2024-04-06 00:00:00,901.9701381972326,Product Sales,Script,Outlier,4959,users
+2024-02-10 00:00:00,1116.4643210591835,App Users,Script,Verified,1933,visits
+2024-05-19 00:00:00,758.083863025077,Product Sales,Script,N/A,2449,users
+2024-02-07 00:00:00,1159.8068630857485,YouTube Views,Script,N/A,1359,count
+2024-05-30 00:00:00,1037.1045199391037,Website Traffic,Unknown,N/A,8096,visits
+2024-05-05 00:00:00,810.1939300926282,Product Sales,API,,9266,visits
+Not a date 11,863.8239422552872,Product Sales,Manual Entry,,8165,visits
+2024-04-22 00:00:00,801.6759384905364,Product Sales,Unknown,,2651,visits
+2024-05-03 00:00:00,878.4747438761381,Product Sales,Manual Entry,N/A,3125,count
+2024-04-13 00:00:00,926.3073356338442,App Users,API,,9333,count
+2024-05-19 00:00:00,854.0690529089082,App Users,Manual Entry,,9210,count
+2024-01-30 00:00:00,1255.3020259655466,Website Traffic,API,Verified,3336,count
+2024-06-27 00:00:00,827.8155003012686,Product Sales,API,Outlier,1874,users
+2024-03-31 00:00:00,911.0557166734362,App Users,Unknown,Verified,3394,sales
+2024-01-15 00:00:00,1060.1714696094318,App Users,Unknown,Verified,1141,users
+2024-04-27 00:00:00,1153.2106494492546,YouTube Views,Script,Outlier,6004,visits
+2024-06-07 00:00:00,912.9229238848477,App Users,API,,6443,visits
+2024-05-14 00:00:00,1132.7444406221991,YouTube Views,Manual Entry,Verified,9458,users
+2024-04-18 00:00:00,1168.3947747140483,YouTube Views,API,N/A,1340,users
+2024-01-16 00:00:00,1055.732477416992,App Users,Manual Entry,,3659,users
+2024-06-02 00:00:00,999.5149511869304,App Users,Script,Check again,4760,visits
+2024-05-30 00:00:00,880.874412826329,Product Sales,Script,Outlier,3978,visits
+2024-03-08 00:00:00,1195.599524526609,App Users,API,N/A,3044,count
+2024-02-19 00:00:00,1238.7248220380407,YouTube Views,API,N/A,6906,visits
+2024-04-04 00:00:00,866.503626957378,Product Sales,Script,N/A,7841,visits
+2024-03-29 00:00:00,894.6418618747227,Product Sales,API,N/A,2080,users
+2024-04-07 00:00:00,904.9480397429828,App Users,Manual Entry,Outlier,9921,visits
+2024-01-15 00:00:00,1181.3125434535418,YouTube Views,Unknown,Outlier,5318,users
+2024-05-02 00:00:00,825.994531407338,App Users,API,Check again,7376,users
+2024-02-29 00:00:00,1195.4282861211366,Website Traffic,Unknown,,8548,sales
+2024-06-13 00:00:00,972.3083787378164,App Users,Script,,1935,count
+2024-01-30 00:00:00,1004.254597209751,App Users,Manual Entry,Verified,5178,sales
+2024-06-04 00:00:00,1027.3648616509952,Website Traffic,Manual Entry,Verified,2674,sales
+2024-06-07 00:00:00,1226.3780474230018,YouTube Views,Manual Entry,,4825,count
+2024-04-02 00:00:00,998.1462339996438,App Users,Unknown,N/A,8429,users
+2024-01-13 00:00:00,1164.3008546559613,Website Traffic,Manual Entry,Verified,5260,sales
+2024-06-07 00:00:00,1009.4869866254415,Website Traffic,Manual Entry,Verified,7049,visits
+2024-06-16 00:00:00,907.4568437536165,Product Sales,Script,N/A,1631,users
+2024-05-14 00:00:00,1053.103688887995,Website Traffic,API,Check again,1264,users
+2024-03-30 00:00:00,1046.0628308274102,Website Traffic,API,Outlier,7063,users
+2024-03-18 00:00:00,982.2182556850339,Product Sales,Unknown,,6251,visits
+2024-05-07 00:00:00,884.1214935704762,App Users,Script,Check again,1855,count
+2024-02-28 00:00:00,1046.7289451575807,App Users,Script,Check again,3524,count
+2024-02-12 00:00:00,935.1886019235708,Product Sales,Unknown,Verified,8353,count
+2024-01-09 00:00:00,996.4279983072631,App Users,Manual Entry,N/A,7362,users
+2024-04-01 00:00:00,1043.5825399971304,App Users,Manual Entry,,5005,users
+2024-05-07 00:00:00,850.4687823658028,Product Sales,Manual Entry,Verified,6624,count
+2024-01-04 00:00:00,1249.3891286392836,YouTube Views,Script,Outlier,7031,sales
+2024-04-09 00:00:00,767.9931912732377,Product Sales,API,Verified,4390,visits
+2024-04-23 00:00:00,1025.9740468868831,App Users,Manual Entry,Outlier,2159,users
+2024-03-05 00:00:00,1055.6504484592285,Product Sales,Script,Verified,4489,count
+2024-01-12 00:00:00,1090.2251500465766,Website Traffic,API,Outlier,6432,count
+2024-01-03 00:00:00,1111.6275339999802,Website Traffic,Unknown,Outlier,1671,sales
+2024-06-22 00:00:00,1225.2339456306286,YouTube Views,Unknown,Verified,9016,sales
+2024-06-23 00:00:00,944.5258172414658,Product Sales,Script,,6347,visits
+2024-03-16 00:00:00,876.5803322470297,Product Sales,Manual Entry,Outlier,1697,users
+2024-01-21 00:00:00,1246.325763027764,YouTube Views,Script,Check again,2819,sales
+2024-02-04 00:00:00,1272.161665361678,YouTube Views,Script,N/A,6160,sales
+2024-06-05 00:00:00,1066.3831809565559,Website Traffic,Unknown,Outlier,8950,count
+2024-05-10 00:00:00,1175.9924836932714,YouTube Views,Manual Entry,,4730,users
+2024-03-05 00:00:00,1168.0075599276981,Website Traffic,Script,Outlier,5976,count
+2024-05-07 00:00:00,1012.069904398349,Website Traffic,Unknown,,4711,users
+2024-06-08 00:00:00,1065.335327480497,Website Traffic,API,Outlier,2089,count
+2024-03-22 00:00:00,1093.4280020637357,Website Traffic,Script,,1475,count
+2024-02-11 00:00:00,1243.2211521657848,YouTube Views,Manual Entry,N/A,4361,sales
+2024-05-20 00:00:00,785.1628598772877,Product Sales,Unknown,Outlier,9738,visits
+2024-03-13 00:00:00,1005.4955514400539,Product Sales,Manual Entry,Verified,6189,visits
+2024-04-26 00:00:00,880.6110005805351,App Users,Script,Verified,5697,users
+2024-02-27 00:00:00,1058.3893606400563,App Users,API,,8183,sales
+2024-02-22 00:00:00,1214.2385616183633,YouTube Views,Script,Outlier,1913,users
+2024-05-12 00:00:00,1084.5945506743783,Website Traffic,Unknown,Outlier,7788,users
+2024-05-21 00:00:00,1086.8506458046188,YouTube Views,API,Check again,2207,users
+2024-06-15 00:00:00,878.4512064470329,Product Sales,API,N/A,9461,visits
+2024-01-18 00:00:00,1040.166633716516,App Users,API,Outlier,6661,users
+2024-02-16 00:00:00,1066.1888928143576,App Users,API,Check again,2762,users
+2024-01-01 00:00:00,846.405994097654,Product Sales,Script,N/A,8128,count
+2024-01-18 00:00:00,1113.3352162549882,Website Traffic,Script,Verified,9100,visits
+2024-03-03 00:00:00,907.2500291471986,App Users,Unknown,,2492,visits
+2024-04-05 00:00:00,868.3327212897372,Product Sales,Unknown,Verified,7643,users
+2024-04-13 00:00:00,772.3997737723628,Product Sales,Script,Check again,1541,users
+2024-01-14 00:00:00,1177.988607706435,Website Traffic,Script,Check again,3361,users
+2024-03-28 00:00:00,944.6638088960296,Product Sales,Script,N/A,6891,visits
+2024-05-08 00:00:00,918.1766511684957,App Users,Manual Entry,N/A,3866,sales
+2024-03-21 00:00:00,960.2674902276156,Product Sales,Manual Entry,Outlier,1226,count
+2024-01-23 00:00:00,1248.6536910692607,YouTube Views,Unknown,Outlier,7563,count
+2024-01-11 00:00:00,1160.0421196746104,Website Traffic,API,N/A,7285,visits
+2024-04-11 00:00:00,932.6926963669073,Product Sales,Script,N/A,7354,visits
+2024-06-01 00:00:00,850.7007717617118,Product Sales,Manual Entry,Check again,4384,users
+2024-04-20 00:00:00,859.4703631523812,Product Sales,Manual Entry,Verified,2169,users
+2024-03-16 00:00:00,1055.7234873902858,App Users,API,Check again,7581,users
+2024-01-20 00:00:00,1235.7565568970913,YouTube Views,Unknown,Verified,8461,users
+2024-06-13 00:00:00,1120.5250632444515,YouTube Views,Manual Entry,N/A,6806,sales
+2024-01-10 00:00:00,980.8823639954942,Product Sales,Unknown,Verified,8697,visits
+2024-04-29 00:00:00,879.107718685183,App Users,Script,,2968,count
+2024-06-09 00:00:00,944.2980131910805,App Users,Unknown,,4744,visits
+2024-05-23 00:00:00,1114.5650693264224,YouTube Views,Script,Verified,1557,sales
+2024-06-10 00:00:00,794.3891177533175,Product Sales,API,Outlier,5713,users
+2024-03-23 00:00:00,1005.1416097493633,App Users,API,N/A,2846,count
+2024-02-01 00:00:00,1010.904294912624,Product Sales,Unknown,,9894,sales
+2024-01-22 00:00:00,1233.8635851804625,Website Traffic,API,Verified,7588,users
+2024-01-31 00:00:00,1208.0809624877963,YouTube Views,API,Check again,2474,visits
+2024-04-01 00:00:00,1111.5635961277214,Website Traffic,Unknown,,6223,sales
+2024-05-09 00:00:00,1075.622317580053,Website Traffic,Manual Entry,Check again,7274,users
+2024-02-02 00:00:00,,Website Traffic,Unknown,Outlier,7171,users
+2024-01-22 00:00:00,944.0892657660006,Product Sales,Unknown,Verified,5558,users
+2024-05-23 00:00:00,892.4899770642137,App Users,Script,Check again,7048,count
+2024-06-16 00:00:00,939.1772634617363,App Users,Unknown,Check again,8922,sales
+2024-01-11 00:00:00,1198.0373904204375,YouTube Views,Manual Entry,Verified,8980,sales
+2024-02-16 00:00:00,1032.0125258022856,Product Sales,API,N/A,1514,count
+2024-01-19 00:00:00,1005.7591843837548,App Users,Script,,7142,sales
+2024-05-15 00:00:00,909.5853029886559,App Users,Script,Outlier,6002,visits
+2024-01-22 00:00:00,1143.7090627834918,App Users,Manual Entry,Verified,9472,visits
+2024-01-05 00:00:00,1153.2297584378666,Website Traffic,Manual Entry,Outlier,2171,visits
+2024-01-26 00:00:00,1216.2711122261626,Website Traffic,Manual Entry,N/A,8875,count
+2024-02-20 00:00:00,1115.0986916740412,App Users,Manual Entry,Outlier,1987,sales
+2024-06-17 00:00:00,1174.75420895325,YouTube Views,API,Outlier,5258,visits
+2024-06-25 00:00:00,1069.2278927812845,App Users,Manual Entry,N/A,5658,count
+2024-01-02 00:00:00,1206.9460008387543,YouTube Views,Manual Entry,N/A,2628,visits
+2024-05-05 00:00:00,994.5587644032556,Website Traffic,Manual Entry,Outlier,2529,count
+2024-06-11 00:00:00,1037.7090003645785,Website Traffic,Script,N/A,2958,users
+2024-06-17 00:00:00,820.3023423285823,Product Sales,Unknown,N/A,1905,sales
+2024-02-29 00:00:00,1040.5227188725137,App Users,Script,,3479,users
+2024-05-30 00:00:00,913.6058707495448,App Users,API,Verified,4052,count
+2024-02-07 00:00:00,,Product Sales,Script,N/A,7251,users
+2024-06-10 00:00:00,1033.1385456134701,Website Traffic,API,N/A,1155,visits
+2024-01-24 00:00:00,,App Users,Manual Entry,Outlier,7999,sales
+2024-06-03 00:00:00,826.503436022984,App Users,Manual Entry,Verified,6806,count
+2024-02-01 00:00:00,1234.4643583794714,Website Traffic,Unknown,,8521,visits
+2024-05-16 00:00:00,1035.3771410151805,Website Traffic,Script,Outlier,8544,count
+2024-03-25 00:00:00,990.1192876446273,Product Sales,Manual Entry,Outlier,6588,count
+2024-06-16 00:00:00,1194.800966741641,YouTube Views,API,Verified,1364,users
+2024-01-31 00:00:00,1010.5624501453834,App Users,API,,8789,users
+2024-04-19 00:00:00,1066.665756818818,YouTube Views,API,Outlier,1382,count
+2024-06-25 00:00:00,1121.638169019259,Website Traffic,Script,Verified,1948,visits
+2024-05-25 00:00:00,1065.3154371054056,Website Traffic,Manual Entry,N/A,9381,sales
+2024-01-26 00:00:00,1193.0958675171748,YouTube Views,Script,,9566,sales
+2024-05-28 00:00:00,1018.3235017631841,App Users,Script,Outlier,9365,sales
+2024-05-20 00:00:00,1107.2562952609833,YouTube Views,Unknown,N/A,8684,count
+2024-05-28 00:00:00,1114.9398204738898,YouTube Views,Manual Entry,,8166,count
+2024-03-14 00:00:00,1144.9851794286049,Website Traffic,Manual Entry,Verified,3426,count
+2024-02-10 00:00:00,1202.805440460897,YouTube Views,Script,N/A,5000,sales
+2024-04-08 00:00:00,1093.3238206654412,Website Traffic,API,Check again,1282,users
+2024-06-23 00:00:00,1147.4150325982114,YouTube Views,Script,,3384,sales
+2024-03-08 00:00:00,1205.2200997597283,Website Traffic,API,Check again,4970,users
+2024-01-01 00:00:00,1062.4553750969444,Website Traffic,Unknown,Check again,1689,sales
+2024-04-20 00:00:00,903.5560958918616,App Users,API,N/A,6093,count
+2024-03-13 00:00:00,1065.3437830297678,App Users,API,N/A,8468,users
+2024-04-19 00:00:00,1030.1655412972827,Website Traffic,Script,Verified,3307,visits
+2024-01-04 00:00:00,963.1365391790483,Product Sales,Manual Entry,N/A,3160,count
+2024-06-03 00:00:00,1049.319790289611,YouTube Views,API,,5494,visits
+2024-06-24 00:00:00,932.2416239110926,App Users,API,Verified,2842,users
+2024-06-12 00:00:00,791.4420322147898,Product Sales,Manual Entry,Outlier,1162,sales
+2024-01-09 00:00:00,1120.543239727557,Website Traffic,Script,N/A,3539,users
+2024-02-09 00:00:00,921.7709681338321,Product Sales,Script,Check again,4300,visits
+2024-04-12 00:00:00,1181.6029784512968,Website Traffic,Manual Entry,Check again,4200,count
+2024-04-09 00:00:00,1117.5180879785607,Website Traffic,Manual Entry,Verified,2898,count
+2024-01-07 00:00:00,1003.9990420764049,App Users,API,Check again,5741,visits
+2024-03-01 00:00:00,1102.052599748135,App Users,Manual Entry,N/A,6154,users
+2024-03-31 00:00:00,1172.6111763498136,Website Traffic,Manual Entry,,3285,count
+2024-04-24 00:00:00,943.5725454728151,App Users,Unknown,N/A,5650,sales
+2024-05-24 00:00:00,865.910270199902,App Users,Manual Entry,Verified,7246,visits
+2024-05-13 00:00:00,837.894138988049,App Users,Manual Entry,Check again,6823,visits
+2024-01-18 00:00:00,1152.6092511625704,YouTube Views,Manual Entry,Verified,2431,visits
+2024-03-15 00:00:00,1206.52654581687,YouTube Views,Script,,7591,users
+2024-04-21 00:00:00,820.0031075530248,Product Sales,API,Outlier,1830,sales
+2024-05-26 00:00:00,793.1400363082348,Product Sales,Manual Entry,Verified,7404,users
+2024-01-08 00:00:00,1030.4888063276371,App Users,API,N/A,8418,count
+2024-01-13 00:00:00,1269.9410232130908,YouTube Views,Manual Entry,Check again,6476,users
+2024-02-10 00:00:00,1245.9563592865136,Website Traffic,Unknown,Verified,2537,count
+2024-04-18 00:00:00,808.121673459339,Product Sales,Unknown,Check again,6469,sales
+2024-03-28 00:00:00,1177.1775524730465,YouTube Views,Unknown,,7789,users
+2024-02-08 00:00:00,1167.8329511305574,App Users,API,Verified,8155,users
+2024-03-24 00:00:00,940.7157096837341,Product Sales,Unknown,N/A,8909,count
+2024-05-11 00:00:00,783.4066183130572,Product Sales,API,,6068,sales
+2024-04-11 00:00:00,899.5857956507288,App Users,Unknown,N/A,8616,count
+2024-02-14 00:00:00,1158.6354413051672,App Users,Script,Check again,1264,sales
